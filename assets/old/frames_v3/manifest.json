@@ -1,0 +1,8 @@
+{
+  "totalFrames": 120,
+  "pattern": "frame_{index}",
+  "padding": 4,
+  "extension": "jpg",
+  "fps": 24,
+  "status": "120-frame validation render; not wired into React"
+}

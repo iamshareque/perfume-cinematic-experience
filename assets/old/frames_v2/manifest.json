@@ -1,0 +1,13 @@
+{
+  "totalFrames": 480,
+  "pattern": "frame_{index}",
+  "padding": 4,
+  "extension": "jpg",
+  "fps": 24,
+  "chapters": [
+    { "name": "awakening", "start": 1, "end": 120 },
+    { "name": "floral-world", "start": 121, "end": 240 },
+    { "name": "amber-atmosphere", "start": 241, "end": 360 },
+    { "name": "final-reveal", "start": 361, "end": 480 }
+  ]
+}

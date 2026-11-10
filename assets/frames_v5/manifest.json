@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "totalFrames": 120,
+  "fps": 24,
+  "pattern": "frame_{index}",
+  "padding": 4,
+  "extension": "jpg"
+}

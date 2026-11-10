@@ -1,0 +1,6 @@
+{
+  "totalFrames": 240,
+  "pattern": "frame_{index}",
+  "padding": 4,
+  "extension": "jpg"
+}
